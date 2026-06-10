@@ -1,1 +1,4 @@
 ![Mi imagen](https://camo.githubusercontent.com/bf2ddb79676aee4fe0e7c29195ad554dd93c6d6448ad40f0cee5291c8cf06024/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3158303933333941565f386d436c51425041785979785a5f4d7145444e79673158)
+
+<img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+
